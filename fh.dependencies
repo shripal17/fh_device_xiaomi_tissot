@@ -2,5 +2,13 @@
   {
     "repository": "shripal17/android_device_xiaomi_msm8953-common",
     "target_path": "device/xiaomi/msm8953-common"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_sepolicy",
+    "target_path": "device/qcom/sepolicy"
+  },
+  {
+    "repository": "LineageOS/android_device_lineage_sepolicy",
+    "target_path": "device/lineage/sepolicy"
   }
 ]
